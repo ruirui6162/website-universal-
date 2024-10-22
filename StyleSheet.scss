@@ -1,0 +1,37 @@
+﻿﻿.fucking {
+    color: blueviolet;
+}
+
+body {
+    font-family: Italic,sans-sreif;
+    background-color: darkcyan;
+    color: darkblue;
+    font-size: 500%;
+    text-align: center;
+    line-height: 200%;
+    width: 100%;
+    margin: 0 auto;
+}
+
+@media(max-width:600px){ body {
+    font-family:Italic, sans-sreif
+    ;
+    background-color:darkcyan;
+    color:darkblue
+    ;
+    font-size:200%;
+    text-align:center
+    ;
+    line-height:100%
+    ;
+    width:100%
+    ;
+    margin:0 auto
+    ;
+    }
+}
+img
+{
+    width:25%;
+    height:auto;
+}
